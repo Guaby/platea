@@ -1,1 +1,1 @@
-# platea
+# Platea Design Components
